@@ -1,5 +1,5 @@
-const { defineConfig } = require('@vue/cli-service')
+const { defineConfig } = require('@vue/cli-service');
 module.exports = defineConfig({
-  transpileDependencies: true,
-  publicPath:'/kege13generator/'
-})
+	transpileDependencies: true,
+	publicPath: '/oge9generator/',
+});
